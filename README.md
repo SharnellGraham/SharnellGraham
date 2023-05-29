@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharnellgraham&label=Profile%20views&color=0e75b6&style=flat" alt="sharnellgraham" /> </p>
 
-- 🔭 I’m currently working on **Documentation Generator**
+- 🔭 I’m currently working on **Developing scripts that can benefit developers and people worldwide**
 
 - 🌱 I’m currently learning **Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023] course**
+                            **Tensorflow 2.0: Deep Learning and Artificial Intelligence course**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Artificial Learning**
 
-- 🤝 I’m looking for help with **Documentation Generator**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SharnellGraham?tab=repositories](https://github.com/SharnellGraham?tab=repositories)
+
 
 - 📫 How to reach me **Sharnellggraham@gmail.com**
 
