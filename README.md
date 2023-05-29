@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on **Developing scripts that can benefit developers and people worldwide**
 
-- 🌱 I’m currently learning **Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023] course**
-                            **Tensorflow 2.0: Deep Learning and Artificial Intelligence course**
+- 🌱 I’m currently learning **Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023] course**<br>
+                            **Tensorflow 2.0: Deep Learning and Artificial Intelligence course**</br>
 
 
 
